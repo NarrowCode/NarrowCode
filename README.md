@@ -6,6 +6,7 @@
 ![NeoVim](https://img.shields.io/badge/NeoVim-26292f?&style=for-the-badge&logo=neovim)
 
 I am a self-employed (web-) developer based in Graz (Austria) with a love for minimalist UIs.
+
 Sometimes I blog at [https://narrowcode.xyz](https://narrowcode.xyz).
 
 - 🔭 I'm currently mostly working with Typescript, React and Vite.
