@@ -7,6 +7,7 @@
 I am a self-employed (web-) developer based in Graz (Austria) with a love for minimalist UIs.
 
 Sometimes I blog at [https://narrowcode.xyz](https://narrowcode.xyz).
+
 My current passion project is [https://barrieretest.at](https://barrieretest.at), where I provide automated accessibility testing.
 
 - 🔭 I'm currently mostly working with Typescript, React and Vite.
