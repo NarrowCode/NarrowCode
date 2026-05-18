@@ -15,4 +15,10 @@ My current passion project is [https://barrieretest.at](https://barrieretest.at)
 
 ---
 
-For business inquiries, please visit [https://solasit.at](https://solasit.at) or get in touch via e-mail: [hello\@solasit.at](mailto:hello@solasit.at).
+## Business Inquiries
+For UI/UX and accessibility work:  
+Solasit: [https://www.solasit.at](https://www.solasit.at) 
+
+
+For enterprise software development:  
+Acurion: [https://www.acurion.at](https://www.acurion.at)
